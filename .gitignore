@@ -1,0 +1,24 @@
+# Backend (Java / Maven)
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/*.log
+
+# Frontend (Node / React / Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# IDEs & Editors
+.idea/
+*.iml
+.vscode/
+*.swp
+.DS_Store
+
+# Archivos de entorno y logs
+*.env
+*.log
